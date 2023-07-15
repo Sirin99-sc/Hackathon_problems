@@ -1,2 +1,2 @@
 # Hackathon_problems
-These are few hackathon problems given by NullStack Technology
+These are a few hackathon problems given during an online training from NullStack Technology
